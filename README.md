@@ -1,1 +1,1 @@
-# species_identification_micronir
+This repository is meant to support the manuscript "Portable spectrometer as a low-cost tool for tree species identification in herbarium and field studies" to be submitted in Methods in Ecology and Evolution.
